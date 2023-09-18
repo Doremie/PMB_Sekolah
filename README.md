@@ -13,7 +13,7 @@
 ![Screenshot 2023-09-18 at 12-58-14 Document](https://github.com/Doremie/PMB_Sekolah/assets/62737597/b5f64098-bff7-4976-bc8f-82521cb421f7)
 
 ##Halaman data ayah
-![Screenshot 2023-09-18 at 12-58-51 Document](https://github.com/Doremie/PMB_Sekolah/assets/62737597/4eff19f7-9eba-4d71-bd23-f65803140924)
+![Screenshot 2023-09-18 at 12-58-51 Document](https://github.com/Doremie/PMB_Sekolah/assets/62737597/e092d51a-0f72-4ad2-b284-d81ac585e272)
 
 ##Halaman data ibu
 ![Screenshot 2023-09-18 at 12-59-43 Document](https://github.com/Doremie/PMB_Sekolah/assets/62737597/5d3682ed-aa61-424f-a9ef-8f45fb5c9d83)
